@@ -63,3 +63,4 @@ Adding the piper tts and the llm stuff can be done following the tutorial i foun
 Eventually i think these files will make it into the main repo and when it does i'll alter the urls to point to there but for now this will work.
 
 Here is a little video of these changes in action
+[![Demo](https://img.youtube.com/vi/Ezj5yt7BYHQ/0.jpg)](https://www.youtube.com/watch?v=Ezj5yt7BYHQ)
